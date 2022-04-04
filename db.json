@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "name": "Ruby Roy",
+      "age": "22",
+      "address": "House No. 230, Kumrul",
+      "salary": "9000",
+      "maritalState": "true",
+      "department": "Electronic",
+      "id": 1
+    },
+    {
+      "name": "Ruby Roy",
+      "age": "22",
+      "address": "House No. 230, Kumrul",
+      "department": "Electronic",
+      "salary": "4000",
+      "maritalState": "true",
+      "id": 2
+    },
+    {
+      "name": "Ruby Roy",
+      "age": "",
+      "address": "House No. 230, Kumrul",
+      "department": "Computer",
+      "salary": "3232",
+      "maritalState": "true",
+      "id": 3
+    },
+    {
+      "name": "Ruby Roy",
+      "age": "33",
+      "address": "House No. 230, Kumrul",
+      "department": "Electronic",
+      "salary": "3232",
+      "maritalState": "true",
+      "id": 4
+    },
+    {
+      "name": "Ruby Roy",
+      "age": "22",
+      "address": "House No. 230, Kumrul",
+      "department": "Computer",
+      "salary": "2323",
+      "maritalState": "true",
+      "id": 5
+    },
+    {
+      "name": "saibo",
+      "age": "22",
+      "address": "65-C Kumrul, Allu patty",
+      "department": "Electronic",
+      "salary": "32",
+      "maritalState": "true",
+      "id": 6
+    },
+    {
+      "name": "Ruhani Roy",
+      "age": "22",
+      "address": "House No. 230, Kumrul",
+      "department": "",
+      "salary": "3233",
+      "maritalState": "true",
+      "id": 7
+    },
+    {
+      "name": "Ruby Roy",
+      "age": "23",
+      "address": "32",
+      "department": "",
+      "salary": "32333",
+      "maritalState": "true",
+      "id": 8
+    },
+    {
+      "name": "Pankaj",
+      "age": "21",
+      "address": "uk",
+      "department": "",
+      "salary": "323323",
+      "maritalState": "true",
+      "id": 9
+    },
+    {
+      "name": "",
+      "age": "",
+      "address": "",
+      "salary": "32323",
+      "maritalState": "true",
+      "id": 10
+    },
+    {
+      "name": "Ruby Roy",
+      "age": "22",
+      "address": "Tarakeswar",
+      "department": "Computer",
+      "salary": "32323",
+      "maritalState": "true",
+      "id": 11
+    }
+  ]
+}
